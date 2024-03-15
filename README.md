@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vivanova7
+- 👋 Hi, I’m Vera Ivanova
 - 👀 I’m interested in plants, new technologies and future human development.
 - 🌱 I’m currently learning Python Web Development in Software University.
 
