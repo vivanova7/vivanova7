@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vera Ivanova
-- 👀 I’m interested in plants, new technologies and future human development.
+- 👀 I’m interested in new technologies, future human development and plants.
 - 🌱 I’m currently learning Python Web Development in Software University.
 
 - ⚡ True fact: I have a master degree in landscape architecture.
